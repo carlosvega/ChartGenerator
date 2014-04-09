@@ -1,0 +1,2 @@
+TIMESERIES,9,TIME SERIES,EJE X,EJE Y,connectionsPerSec.png
+TIMESERIES,10,TIME SERIES,EJE X,EJE Y,connectionsPerSec2.png
